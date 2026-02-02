@@ -8,7 +8,7 @@ Aplikasi ini adalah sistem informasi berbasis Desktop yang dirancang untuk menge
 
 | Halaman Login | Form Input & Data Pegawai |
 |---|---|
-| ![Login Screen](screenshots/1.png) | ![Main Screen](screenshots/2.png) |
+| ![Login Screen](1.png?raw=true) | ![Main Screen](2.png?raw=true) |
 | *Sistem keamanan akses masuk* | *Pengelolaan data (Tambah, Hapus, View)* |
 
 > **Tips:** Simpan gambar screenshot Anda di folder bernama `screenshots` di dalam repositori ini agar gambar muncul secara otomatis.
