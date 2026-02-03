@@ -52,6 +52,22 @@ Menggunakan struktur pewarisan (*inheritance*) untuk mengklasifikasikan peran pe
 
 ---
 
+## Peran & Kontribusi Saya
+Sebagai **Backend Developer & Logic Programmer**, kontribusi utama saya meliputi:
+- Mengembangkan logika CRUD untuk manipulasi data pegawai
+- Mengintegrasikan GUI dengan database agar data sinkron
+- Menerapkan konsep OOP seperti **inheritance** dan **encapsulation**
+- Mengimplementasikan validasi login untuk keamanan sistem
+
+---
+## Tujuan Pembelajaran
+- Memahami implementasi Java dalam aplikasi desktop
+- Menerapkan konsep OOP pada studi kasus nyata
+- Mengembangkan sistem terintegrasi antara GUI, logika, dan database
+- Melatih perancangan logika bisnis sederhana dalam aplikasi
+
+---
+
 ## 👨‍💻 Anggota Kelompok (Tim Pengembang)
 Proyek ini disusun oleh mahasiswa Teknik Informatika Universitas Esa Unggul:
 1. **Bagas Yoas Sibagariang** (20230801254)
